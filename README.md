@@ -13,7 +13,7 @@ Atualmente participo do projeto PET-Saúde Tecnologia e desenvolvo o aplicativo 
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
 ### 🌐 Desenvolvimento Web
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
