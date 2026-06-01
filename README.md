@@ -18,7 +18,7 @@ Atualmente participo do projeto PET-Saúde Tecnologia e desenvolvo o aplicativo 
 ### 🌐 Desenvolvimento Web
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
 ---
 
