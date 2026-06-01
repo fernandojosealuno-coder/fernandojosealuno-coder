@@ -32,8 +32,8 @@ Atualmente participo do projeto PET-Saúde Tecnologia e desenvolvo o aplicativo 
 
 ## 📫 Contato
 
-- GitHub: https://github.com/dinhoneto2003
-- Email: seuemail@email.com
+- GitHub: https://github.com/fernandojosealuno-coder
+- Email: fernandojose.aluno@unipampa.edu.br
 <!--
 **fernandojosealuno-coder/fernandojosealuno-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
