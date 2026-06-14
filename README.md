@@ -1,50 +1,65 @@
-# 👋 Fernando José Neto
+# 👋 Olá, eu sou Fernando José Neto
 
-## 🎓 Estudante de Engenharia de Produção — UNIPAMPA
+🎓 Estudante de Engenharia de Produção na UNIPAMPA (Universidade Federal do Pampa)
 
-Olá! Eu sou o Fernando 👋
+💻 Desenvolvedor Front-end em constante evolução, apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais que geram impacto real.
 
-Sou apaixonado por tecnologia, desenvolvimento web e inovação.
-
-Atualmente participo do projeto PET-Saúde Tecnologia e desenvolvo o aplicativo Pampa Saúde.
+Atualmente participo do **PET-Saúde Tecnologia**, contribuindo para o desenvolvimento do aplicativo **Pampa Saúde**, uma plataforma voltada para facilitar o acesso da população a informações e serviços de saúde.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+### 💻 Linguagens de Programação
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge\&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge\&logo=python)
 
 ### 🌐 Desenvolvimento Web
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
+
+### 🛠 Ferramentas
+
+* Git & GitHub
+* VS Code
+* Figma
+* Vercel
+* Supabase
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em Destaque
 
-- 🏥 Pampa Saúde
-- 💡 PET-Saúde Tecnologia
-- 🌐 Desenvolvimento Web
+### 🏥 Pampa Saúde
+
+Aplicativo desenvolvido no projeto PET-Saúde Tecnologia para auxiliar a população no acesso a informações, campanhas, vídeos educativos, primeiros socorros e contatos da rede de saúde.
+
+### 💡 PET-Saúde Tecnologia
+
+Projeto interdisciplinar voltado à inovação tecnológica aplicada à saúde pública.
+
+### 🌐 Desenvolvimento Web
+
+Criação de sites modernos, responsivos e focados na experiência do usuário.
+
+---
+
+
+
+## 🎯 Objetivo
+
+Busco oportunidades para desenvolver minhas habilidades em tecnologia, participar de projetos inovadores e criar soluções que gerem impacto positivo na vida das pessoas.
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/fernandojosealuno-coder
-- Email: fernandojose.aluno@unipampa.edu.br
-<!--
-**fernandojosealuno-coder/fernandojosealuno-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Email: [fernandojose.aluno@unipampa.edu.br](mailto:fernandojose.aluno@unipampa.edu.br)
 
-Here are some ideas to get you started:
+🐙 GitHub: https://github.com/fernandojosealuno-coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Universidade Federal do Pampa - UNIPAMPA
